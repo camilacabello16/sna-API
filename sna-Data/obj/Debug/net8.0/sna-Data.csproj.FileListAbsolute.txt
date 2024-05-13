@@ -10,3 +10,4 @@ D:\hieu code\social network app\sna-backend\sna-API\sna-Data\obj\Debug\net8.0\sn
 D:\hieu code\social network app\sna-backend\sna-API\sna-Data\obj\Debug\net8.0\refint\sna-Data.dll
 D:\hieu code\social network app\sna-backend\sna-API\sna-Data\obj\Debug\net8.0\sna-Data.pdb
 D:\hieu code\social network app\sna-backend\sna-API\sna-Data\obj\Debug\net8.0\ref\sna-Data.dll
+D:\hieu code\social network app\sna-backend\sna-API\sna-Data\obj\Debug\net8.0\sna-Data.sourcelink.json

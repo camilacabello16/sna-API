@@ -71,3 +71,5 @@ D:\hieu code\social network app\sna-backend\sna-API\sna-API\obj\Debug\net8.0\ref
 D:\hieu code\social network app\sna-backend\sna-API\sna-API\obj\Debug\net8.0\sna-API.pdb
 D:\hieu code\social network app\sna-backend\sna-API\sna-API\obj\Debug\net8.0\sna-API.genruntimeconfig.cache
 D:\hieu code\social network app\sna-backend\sna-API\sna-API\obj\Debug\net8.0\ref\sna-API.dll
+D:\hieu code\social network app\sna-backend\sna-API\sna-API\obj\Debug\net8.0\sna-API.sourcelink.json
+D:\hieu code\social network app\sna-backend\sna-API\sna-API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
